@@ -22,6 +22,7 @@ XANO_TABLES = {
     'professor_disciplines': 'professor_disciplines_eleva'
 }
 
+#teste
 # Configuração do Flask-Login
 login_manager = LoginManager()
 from functools import wraps
